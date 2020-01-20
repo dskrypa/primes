@@ -1,0 +1,8 @@
+.idea
+*.gz
+build
+*.pyd
+*.c
+*.html
+__pycache__/
+venv/
